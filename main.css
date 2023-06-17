@@ -1,0 +1,29 @@
+#secao {
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+h2 {
+    text-align: center;
+}
+
+header { 
+    background-color: azure;
+    width: 600px;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    margin-top: 10px;
+    width: 330px;
+    
+}
+
+
+input {
+    -moz-appearance: none;
+    width: 330px;
+}
